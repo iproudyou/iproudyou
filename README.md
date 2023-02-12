@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Daniel Lee, currently majoring in Computer Science.
-I have previous experience as software engineer and cloud engineer. 
+My name is Daniel Lee, currently majoring in Computer Science.  
+I have previous experience as software engineer and cloud engineer.  
 
 - 🔭 I like to explore different fields of technology. My current interests are developing:
      - web application
