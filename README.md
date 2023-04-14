@@ -9,4 +9,3 @@ I have previous experience as software engineer and cloud engineer.
      - cloud infrastructure
      - machine learning models
 - 📫 How to reach me: Please send out an email to iproudyou@gmail.com
-- ⚡ Fun fact: Sprite Zero is my number zero drink!!
